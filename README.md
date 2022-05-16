@@ -2,21 +2,21 @@
 
 ## Favorites techs and tools
 
-<div style="display: flex; align-items: center;" height="30px"><a href="https://nodejs.org"><img align="left" src="icons/nodejs.png" width="20px"></img></a></div>
-<div style="display: flex; align-items: center;" height="30px"><a href="https://reactjs.org"><img align="left" src="icons/react.png" width="20px"></img></a></div>
-<div style="display: flex; align-items: center;" height="30px"><a href="https://go.dev"><img align="left" src="icons/go.png" width="20px"></img></a></div>
-<div style="display: flex; align-items: center;" height="30px"><a href="https://www.iso-9899.info/wiki/The_Standard"><img align="left" src="icons/c.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://nodejs.org"><img align="left" src="icons/nodejs.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://reactjs.org"><img align="left" src="icons/react.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://go.dev"><img align="left" src="icons/go.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://www.iso-9899.info/wiki/The_Standard"><img align="left" src="icons/c.png" width="20px"></img></a></div>
 
-<div style="display: flex; align-items: center;" height="30px"><a href="https://www.altium.com/altium-designer"><img align="left" src="icons/altium.png" width="20px"></img></a></div>
-<div style="display: flex; align-items: center;" height="30px"><a href="https://www.solidworks.com"><img align="left" src="icons/solidworks.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://www.altium.com/altium-designer"><img align="left" src="icons/altium.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://www.solidworks.com"><img align="left" src="icons/solidworks.png" width="20px"></img></a></div>
 
-<div style="display: flex; align-items: center;" height="30px"><a href="https://www.vim.org"><img align="left" src="icons/vim.png" width="20px"></img></a></div>
-<div style="display: flex; align-items: center;" height="30px"><a href="https://github.com/torvalds/linux"><img align="left" src="icons/linux.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://www.vim.org"><img align="left" src="icons/vim.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://github.com/torvalds/linux"><img align="left" src="icons/linux.png" width="20px"></img></a></div>
 
 
-<div style="display: flex; align-items: center;" height="30px"><a href="https://www.docker.com"><img align="left" src="icons/docker.png" width="20px"></img></a></div>
-<div style="display: flex; align-items: center;" height="30px"><a href="https://redis.io"><img align="left" src="icons/redis.png" width="20px"></img></a></div>
-<div style="display: flex; align-items: center;" height="30px"><a href="https://platformio.org"><img align="left" src="icons/platformio.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://www.docker.com"><img align="left" src="icons/docker.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://redis.io"><img align="left" src="icons/redis.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://platformio.org"><img align="left" src="icons/platformio.png" width="20px"></img></a></div>
 
 <br>
 
