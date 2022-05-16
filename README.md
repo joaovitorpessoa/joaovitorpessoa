@@ -1,4 +1,4 @@
-## 👋
+# 👋
 
 ## Favorites techs and tools
 
@@ -18,6 +18,7 @@
 <a href="https://redis.io"><img align="left" src="icons/redis.png" width="26px"></img></a>
 <a href="https://platformio.org"><img align="left" src="icons/platformio.png" width="26px"></img></a>
 
+<br>
 <br>
 
 ## Connect with me
