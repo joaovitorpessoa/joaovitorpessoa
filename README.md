@@ -1,6 +1,6 @@
 # 👋
 
-## Favorites techs and tools
+## Favorites
 
 <a href="https://github.com/torvalds/linux"><img align="left" src="icons/linux.png" height="26px"></img></a>
 <a href="https://www.vim.org"><img align="left" src="icons/vim.png" height="26px"></img></a>
