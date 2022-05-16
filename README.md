@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://nodejs.org"><img align="left" src="icons/nodejs.png" width="20px"></img></a></div>
 <div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://reactjs.org"><img align="left" src="icons/react.png" width="20px"></img></a></div>
-<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://go.dev"><img align="left" src="icons/go.png" width="20px"></img></a></div>
+<div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://go.dev"><img align="left" src="icons/go.png" width="20px" alt=""></img></a></div>
 <div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://www.iso-9899.info/wiki/The_Standard"><img align="left" src="icons/c.png" width="20px"></img></a></div>
 
 <div style="display: flex; align-items: center;" height="30px"><a style="height: 100%" href="https://www.altium.com/altium-designer"><img align="left" src="icons/altium.png" width="20px"></img></a></div>
