@@ -2,21 +2,21 @@
 
 ## Favorites techs and tools
 
-<a href="https://github.com/torvalds/linux"><img align="left" src="icons/linux.png" width="26px"></img></a>
-<a href="https://www.vim.org"><img align="left" src="icons/vim.png" width="26px"></img></a>
+<a href="https://github.com/torvalds/linux"><img align="left" src="icons/linux.png" height="26px"></img></a>
+<a href="https://www.vim.org"><img align="left" src="icons/vim.png" height="26px"></img></a>
 
-<a href="https://reactjs.org"><img align="left" src="icons/react.png" width="26px"></img></a>
-<a href="https://nodejs.org"><img align="left" src="icons/nodejs.png" width="26px"></img></a>
-<a href="https://www.iso-9899.info/wiki/The_Standard"><img align="left" src="icons/c.png" width="26px"></img></a>
-<a href="https://go.dev"><img align="left" src="icons/_go.png" width="26px"></img></a>
+<a href="https://reactjs.org"><img align="left" src="icons/react.png" height="26px"></img></a>
+<a href="https://nodejs.org"><img align="left" src="icons/nodejs.png" height="26px"></img></a>
+<a href="https://www.iso-9899.info/wiki/The_Standard"><img align="left" src="icons/c.png" height="26px"></img></a>
+<a href="https://go.dev"><img align="left" src="icons/_go.png" height="26px"></img></a>
 
-<a href="https://www.altium.com/altium-designer"><img align="left" src="icons/altium.png" width="26px"></img></a>
-<a href="https://www.solidworks.com"><img align="left" src="icons/solidworks.png" width="26px"></img></a>
+<a href="https://www.altium.com/altium-designer"><img align="left" src="icons/altium.png" height="26px"></img></a>
+<a href="https://www.solidworks.com"><img align="left" src="icons/solidworks.png" height="26px"></img></a>
 
 
-<a href="https://www.docker.com"><img align="left" src="icons/docker.png" width="26px"></img></a>
-<a href="https://redis.io"><img align="left" src="icons/redis.png" width="26px"></img></a>
-<a href="https://platformio.org"><img align="left" src="icons/platformio.png" width="26px"></img></a>
+<a href="https://www.docker.com"><img align="left" src="icons/docker.png" height="26px"></img></a>
+<a href="https://redis.io"><img align="left" src="icons/redis.png" height="26px"></img></a>
+<a href="https://platformio.org"><img align="left" src="icons/platformio.png" height="26px"></img></a>
 
 <br>
 <br>
