@@ -3,7 +3,7 @@
 ## Favorites techs and tools
 
 <a href="https://github.com/torvalds/linux"><img align="left" src="icons/linux.png" height="26px"></img></a>
-<a href="https://www.vim.org"><img align="left" src="icons/vim.png" height="26px"></img></a>
+<a href="https://www.vim.org"><img align="left" src="icons/_vim.png" height="26px"></img></a>
 
 <a href="https://reactjs.org"><img align="left" src="icons/react.png" height="26px"></img></a>
 <a href="https://nodejs.org"><img align="left" src="icons/nodejs.png" height="26px"></img></a>
