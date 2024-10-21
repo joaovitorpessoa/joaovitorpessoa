@@ -21,6 +21,6 @@
 
 ## Connect with me
 
-![Discord Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Vitor%20Pessoa%230103-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white)
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Vitor%20Pessoa-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-pessoa-5017561b9/)
 [![Gmail Badge](https://img.shields.io/badge/-joaovitorpessoa81@gmail.com-d65549?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitorpessoa81@gmail.com)](mailto:joaovitorpessoa81@gmail.com)
+![Discord Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Vitor%20Pessoa%230103-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white)
